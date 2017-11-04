@@ -1,0 +1,18 @@
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+      xmlns:app="http://schemas.android.com/apk/res-auto"
+      xmlns:tools="http://schemas.android.com/tools"
+      tools:context=".activities.MainActivity">
+
+    <item
+        android:id="@+id/action_create1"
+        android:title="Home"
+        android:icon="@drawable/info"
+        app:showAsAction="ifRoom" />
+    <item
+        android:id="@+id/action_create"
+        android:icon="@drawable/parice"
+        android:title="Home"
+        app:showAsAction="ifRoom"/>
+
+
+</menu>
